@@ -28,21 +28,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/src/Week02/inheritance/Car.java
-/src/Week02/inheritance/Food.java
-/src/Week02/inheritance/MyFirstClass_16.java
-/src/Week02/inheritance/Person.java
-/src/Week02/inheritance/Product.java
-/src/Week02/inheritance/Q1.md
-/src/Week02/inheritance/student.java
-/src/Week02/IntroInheritance/Car.java
-/src/Week02/IntroInheritance/Food.java
-/src/Week02/IntroInheritance/MyFirstClass_16.java
-/src/Week02/IntroInheritance/Person.java
-/src/Week02/IntroInheritance/Product.java
-/src/Week02/IntroInheritance/student.java
-/src/Week02/Readme/Constructor in inheritance.md
-/src/Week02/Readme/override and base.md
-/src/Week02/Readme/polymorphism and down-cast.md
-/src/Week02/Readme/Q1.md
-/src/Week02/Readme/README.md
+
